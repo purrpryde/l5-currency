@@ -24,8 +24,5 @@
         "email": "purrpryde@gmail.com",
         "issues": "http://github.com/purrpryde/l5-currency/issues",
         "source": "http://github.com/purrpryde/l5-currency"
-    },
-    "config": {
-        "preferred-install": "dist"
     }
 }
