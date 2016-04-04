@@ -1,0 +1,31 @@
+{
+    "name": "hitzmedia/l5-currency",
+    "description": "Package for converting and formatting any currency in Laravel 5 applications.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["currency", "currencies"],
+    "authors": [
+        {
+            "name": "Vitaly Drozhdin",
+            "email": "purrpryde@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HitzMedia\\Currency\\": "src/"
+        }
+    },
+    "support": {
+        "email": "purrpryde@gmail.com",
+        "issues": "http://github.com/purrpryde/l5-currency/issues",
+        "source": "http://github.com/purrpryde/l5-currency"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
