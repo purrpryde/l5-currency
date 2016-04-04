@@ -18,7 +18,10 @@
     "autoload": {
         "psr-4": {
             "HitzMedia\\Currency\\": "src/"
-        }
+        },
+        "classmap": [
+            "database/seeds"
+        ]
     },
     "support": {
         "email": "purrpryde@gmail.com",
